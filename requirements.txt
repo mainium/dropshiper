@@ -1,6 +1,0 @@
-invoke
-mkdocs
-mkdocs-bootswatch
-#mkdocs-material
-#mkdocs-windmill-dark
-#pymdown-extensions
