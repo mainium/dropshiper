@@ -13,6 +13,9 @@ nav:
     - '第1章': zh/ch01.md
     - '第2章': zh/ch02.md
     - '第12章': zh/ch12.md
+  - '小百科': 
+    - '追加/交叉销售的不同': zh/diff-upselling-cross-selling.md
+
 
 #  - ANN: announce.md
 #  - User Guide: guide.md
