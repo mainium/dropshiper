@@ -14,7 +14,9 @@ nav:
     - '第2章': zh/ch02.md
     - '第12章': zh/ch12.md
   - '小百科': 
-    - '追加/交叉销售的不同': zh/diff-upselling-cross-selling.md
+    - '追加/交叉销售的不同': faq/diff-upselling-cross-selling.md
+    - '白标产品':faq/white-label-product.md
+    - '如何选择基利市场':faq/how-to-choose-a-niche.md
 
 
 #  - ANN: announce.md
