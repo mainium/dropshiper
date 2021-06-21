@@ -4,34 +4,94 @@
 
 
 
+您是否曾想了解在线商店的整个创建过程?
 
-Have you ever wanted to learn the entire process of creating an online store?
-
-From coming up with the ‘big’ idea to getting your first sale, you can follow along with my journey to learn how to build a new online store from scratch.
-
-In case you have no idea who the heck I am, I’m Nicole Martins Ferreira. I’ve been working in marketing since 2008 and started building online stores in 2013. As an experienced marketer, I’ll show you how to choose products based on their marketability, optimize for conversions and land your first sale. I’ll also show you how to design your online store as a professional brand.
-
-Nicole Martins Ferreira
-
-I constantly get messages from new store owners asking for advice on how to build a store, get sales and build a brand they can be proud of. So I wanted to show you a behind the scenes look at what I do when building a new online store.
-
-I hope to show you all that you can find high-quality products to sell. And that, yes, even dropshippers can build an amazing brand.
-
-But since I’m showing you my journey as it happens, anything can go wrong. And, like a new entrepreneur, I can’t predict what will go wrong, I can only take action to resolve it. So I’ll let you know when it’s time to pivot and how to solve problems without overreacting to them.
-
-This weekly series is as real as it gets. You’ll get a true inside look at what it’s like to build a dropshipping business. So follow along with my journey if you want to learn from my wins and challenges.
-
-Over the next eight weeks, I’ll be showing the entire process of what goes on in my head when I build a new store. You’ll learn how to choose a niche, pick the right theme, the step by step process of setting up a Shopify store, how to choose products for your store and ordering samples for quality assurance, the process for designing a store, and of course marketing.
-
-This week, I’ll be breaking down the exact process I follow for choosing what niche to build a store in. You’ll learn what I look for in a dropshipping niche, which tools I use, and how I measure popularity. At the end of this article, I will choose a niche and build a store around it for the duration of this weekly series.
-
-So let’s dive into the big question.
-
-Don’t wait for someone else to do it. Hire yourself and start calling the shots.
-Get Started Free
+从提出 `大` 想法看获得第一笔销售收入,
+可以通过本文从0开始建立在线商店
 
 
-## Should I choose passion or money in a niche?
+我是: Nicole Martins Ferreira
+
+从08年开始营销工作,
+在13年开始建立在线商店.
+作为一名经验丰富的营销人员,
+将向您展示如何根据产品的**适销性**
+选择产品/优化转化率并实现首笔销售.
+
+还将展示如何将您的在线商店设计为专业品牌店.
+
+![Ferreira](http://ydlj.zoomquiet.top/ipic/2021-06-21-ScreenShot%202021-06-21%2011.13.31.jpg)
+
+我不断收到来自新店长的消息,
+询问有关如何创建商店/获得销售/建立能引以为豪的品牌/...
+为此,
+我想先展示在线商店构建之初的幕后工作.
+
+我希望能充分展示给你,
+任何人都可以找到高质量产品并进行销售;
+而且,
+对的, 即便是 直运电商/Dropshipping 也可以建立
+一个惊人的品牌.
+
+但是, 任何事儿都可能出错,
+何况展示的只是我的私人旅程;
+而且,
+作为一名新人创业者,
+我并不能预测出所有意外,
+只能在遇到时想办法解决;
+所以,
+我也会告诉您何时应该转向,
+以及如何应对问题而不会反应过度.
+
+这个系列文章将真实展示如何切实建立
+直运电商/Dropshipping 业务是什么感觉;
+如果你下决心从我的胜利和挑战中学习,
+请跟随我的旅程.
+
+
+接下来八周里,
+我将展示建立新店过程中,
+脑海中发生的一切;
+
+您将学习如何选择 niche/利基, 
+选择正确的主题/样式,
+建立 Shopify 商店...
+详细过程,
+以及如何为您的适应性选择产品/
+订购样品以保证质量/
+设计商店外观/...营销过程.
+
+当前,
+将详细阐述选择
+niche/利基市场以建立商店的确切过程;
+您将了解到在 直运电商/Dropshipping 
+的 niche/利基市场中,
+应该寻求什么,
+以及哪些工具值得尝试,,
+如何衡量受欢迎程度.
+
+在文章最后,
+将最终完成一个具体 niche/利基市场的选择,
+并在系列文章后续内容中,
+围绕这一选择建立一家真实的线上商店.
+
+那么, 
+现在就开始这个大问题的研究吧.
+
+
+
+## 在 niche/利基市场 选择激情还是金钱?
+> Should I choose passion or money in a niche?
+
+有些人需要对他们销售的东西充满热情,
+这样才能 "作自己喜欢的工作";
+
+另一些人则习惯从银行帐号里数字的增加获得动力,
+对他们销售的东西毫不在意;
+
+现实是:
+您可能要平行这两者,
+才能创建一个真正成功的品牌.
 
 Some people need to be passionate about what they’re selling so they can ‘do work they love.’ Others find motivation as their bank account rises and couldn’t care less about what they’re selling. But truth is, you’ll likely need to balance a combination of the two, to really create a successful brand.
 
